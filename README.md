@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sumit Khadka</h1>
-<h3 align="center">A passionate developer from Nepal 💻 | ML Enthusiast 🤖 | Web Developer 🌐</h3>
 
 <p align="center">
   <img src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif" width="500" height="350" alt="Coding Animation"/>
